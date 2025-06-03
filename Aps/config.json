@@ -1,0 +1,1 @@
+{"api_key": "AIzaSyDN9CiJ3u7DcAEI_J2IoK7LSC3KkNqJhv0", "model": "gemini-2.0-flash", "input_path": "C:/Users/Administrator/Pictures", "output_path": "C:/Users/Administrator/Documents", "max_title_length": 120, "max_keywords": 45, "workers": 1, "delay": 6}
